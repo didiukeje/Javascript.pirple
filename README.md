@@ -3,12 +3,12 @@
 
 # Breakdown of the course
  ## 1. Data types
-      * Variables
-      * Let and Const
+      - Variables
+      - Let and Const
  ## 2. If Statements and Operators
-      * Introduction to If Statements
-      * Comparison Operators
-      * Nested If Statements
-      * Logical Operators
-      * Else and Else If
+      - Introduction to If Statements
+      - Comparison Operators
+      - Nested If Statements
+      - Logical Operators
+      - Else and Else If
  ## 3. Functions
